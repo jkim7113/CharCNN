@@ -1,1 +1,4 @@
 __pycache__
+model/backups
+data/cefrj-easy.csv
+data/cefrj-hard.csv
